@@ -4,3 +4,4 @@ After 5 rounds, your total distance becomes your final score.
 
 This project is my first mobile game attempt built with Unity. I aimed to run the entire game loop in a single script.
 
+https://github.com/user-attachments/assets/fbd83c4e-85c9-4699-bc59-75e7ed0ed21c
