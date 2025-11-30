@@ -1,0 +1,10 @@
+# Unity'nin otomatik oluşturduğu ve paylaşılmaması gereken dosyalar
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+# Proje ayarları
+/*.csproj
+/*.unityproj
+/*.sln

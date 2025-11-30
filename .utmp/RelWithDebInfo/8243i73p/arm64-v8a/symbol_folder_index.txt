@@ -1,0 +1,1 @@
+C:\Users\berka\Desktop\GameDev\Unity\To The Mooon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\8243i73p\obj\arm64-v8a
